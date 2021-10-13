@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: #283149;
+  background-image: linear-gradient(65deg,#2a3a66,#0e1835);
 }
 
 h1 {
@@ -32,17 +32,17 @@ footer {
 }
 
 .d {
-  background-image: url("images/tom1.png");
+  background-image: url("images/tom-1.png");
 
 }
 
 .j {
-  background-image: url("images/tom2.png");
+  background-image: url("images/tom-2.png");
 
 }
 
 .k {
-   background-image: url("images/tom3.png");
+   background-image: url("images/tom-3.png");
 }
 
 .l {
